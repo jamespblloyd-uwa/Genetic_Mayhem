@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 11 18:16:36 2024
 
-@author: jameslloyd
+@author: jameslloyd 
 """
 
 from configuration import * 

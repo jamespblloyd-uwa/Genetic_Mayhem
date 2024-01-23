@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 11 18:15:18 2024
 
-@author: jameslloyd
+@author: jameslloyd 
 """
 
 WIN_WIDTH = 800

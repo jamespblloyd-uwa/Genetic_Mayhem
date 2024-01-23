@@ -6,7 +6,7 @@ Created on Thu Jan 11 18:13:32 2024
 @author: jameslloyd
 """
 #I used the following YouTube tutorial to get this project started (https://www.youtube.com/watch?v=G_LXB5C-r20) and I am very grateful to its creator (YouTube: @Pythondude, Twitter: MouhammadHamsho). 
-from configuration import *
+from configuration import * 
 from weapons import *
 import sys
 import pygame
