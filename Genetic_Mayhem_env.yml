@@ -115,4 +115,4 @@ dependencies:
   - pip:
       - cx-freeze==6.15.12
       - pathfinding==1.0.9
-prefix: /opt/homebrew/Caskroom/mambaforge/base/envs/GameDev
+prefix: /opt/homebrew/Caskroom/mambaforge/base/envs/GameDev 
